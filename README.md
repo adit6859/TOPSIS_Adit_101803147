@@ -5,7 +5,7 @@ It is a method of compensatory aggregation that compares a set of alternatives b
 ### Installation
 
 ```sh
->> pip install TOPSIS-Adit-101803147==0.6
+>> pip install TOPSIS_Adit_101803147==0.6
 ```
 ### How to run in command prompt
 
