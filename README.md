@@ -5,12 +5,12 @@ It is a method of compensatory aggregation that compares a set of alternatives b
 ### Installation
 
 ```sh
->> pip install TOPSIS-Karan-101803135==0.6
+>> pip install TOPSIS-Adit-101803147==0.6
 ```
 ### How to run in command prompt
 
 ```sh
->> from TOPSIS_Karan_101803135.topsis import topsis
+>> from TOPSIS_Adit_101803147.topsis import topsis
 >> topsis("data.csv","1,1,1,2","+,+,-,+","result.csv")
 ```
 
