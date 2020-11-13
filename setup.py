@@ -6,7 +6,7 @@ def readme():
 setup(
   name = 'TOPSIS_Adit_101803147',         # How you named your package folder (MyLib)
   packages = ['TOPSIS_Adit_101803147'],   # Chose the same as "name"
-  version = '0.6',      # Start with a small number and increase it with every change you make
+  version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Topsis Implementation',   # Give a short description about your library
   long_description=readme(),
